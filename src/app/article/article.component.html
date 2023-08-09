@@ -1,0 +1,17 @@
+<article class="flex justify-around items-center mt-10">
+  <div *ngFor="let product of products">
+
+    <div class="w-56 h-96 ">
+      <div class="border-b border-black h-56" [style.background-image]="'url(' + product.url_img + ')'" style="background-size: cover;"></div>
+      <div>
+        <h2 class="font-bold">{{ product.name }}</h2>
+        <p>{{ product.about }}</p>
+        <i class="font-bold text-gray-600 pl-2">Prix {{ product.prix }}</i>
+        
+        <button class="btn bg-primary text-white border-none float-right mr-2 mt-5 w-32"
+                (click)="addToCart(product)">ADD</button>
+      </div>
+    </div>
+
+  </div>
+</article>
