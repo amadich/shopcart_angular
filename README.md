@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shopcart
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# shopcart_angular
+create a shopping cart experience using the Angular framework. It enables users to browse and select products from a list, add them to the cart 🛒
+>>>>>>> 034d26d644cb230cd9e093289354bec13fc69d02
