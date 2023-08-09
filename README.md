@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 # Shopcart
+![image](https://github.com/amadich/shopcart_angular/assets/74735976/2b99d899-8517-469f-b722-38d723e4eea1)
+#
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
 
